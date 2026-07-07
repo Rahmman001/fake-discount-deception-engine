@@ -132,5 +132,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-Built by [Ziaur Rahman Ansari] as a data engineering portfolio project.
+Built by Ziaur Rahman Ansari as a data engineering portfolio project.
 LinkedIn: [https://www.linkedin.com/in/ziaur-rahman-ansari-0177071b9/] · GitHub: [https://github.com/Rahmman001]
