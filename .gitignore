@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Local dlt working files -- NOT committed. Only historical_prices.parquet
+# (the final lakehouse output) is committed; the raw staging DuckDB file
+# is disposable and gets rebuilt fresh on every run.
+*.duckdb
+*.duckdb.wal
+.dlt/
+
+.streamlit/secrets.toml
